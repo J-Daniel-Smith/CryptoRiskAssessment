@@ -16,3 +16,9 @@ TODO:
 2) Create user story
 3) Create schema / backend (PostgreSQL) and API's
 4) Get other developers involved / find hosting
+
+
+Tools:
+Dia - Diagram Editor
+pgModeler - Data Model Generator
+PostgreSQL - Database Server
