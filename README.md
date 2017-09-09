@@ -12,13 +12,19 @@ This should facilitate the following:
 Privacy is a concern.  We will not be storing or leveraging any data on users beyond a user name and address.  No email addresses, IP Addresses.  To reduce SPAM and associated expenses, we will have a SPAMMER list which will effectively mute additions from these users.
 
 TODO:
-1) Define mission statement
-2) Create user story
-3) Create schema / backend (PostgreSQL) and API's
-4) Get other developers involved / find hosting
+1. Assess Decentralization Methods
+2. Create schema 
+3. Create API's
+4. Advertise to interest other developers and/or find hosting
 
+Completed:
+1. [Whitepaper](https://github.com/J-Daniel-Smith/CryptoRiskAssessment/wiki/Whitepaper)
+    * Mission Statement
+    * User Story
 
 Tools:
-Dia - Diagram Editor
-pgModeler - Data Model Generator
-PostgreSQL - Database Server
+* Dia - Diagram Editor
+* *pgModeler - Data Model Generator*
+* *PostgreSQL - Database Server*
+
+*Itallics denote potential tools*
